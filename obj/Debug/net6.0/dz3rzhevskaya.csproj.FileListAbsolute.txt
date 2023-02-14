@@ -1,0 +1,15 @@
+C:\Users\Александра\Desktop\domashca\dz3rzhevskaya\bin\Debug\net6.0\dz3rzhevskaya.exe
+C:\Users\Александра\Desktop\domashca\dz3rzhevskaya\bin\Debug\net6.0\dz3rzhevskaya.deps.json
+C:\Users\Александра\Desktop\domashca\dz3rzhevskaya\bin\Debug\net6.0\dz3rzhevskaya.runtimeconfig.json
+C:\Users\Александра\Desktop\domashca\dz3rzhevskaya\bin\Debug\net6.0\dz3rzhevskaya.dll
+C:\Users\Александра\Desktop\domashca\dz3rzhevskaya\bin\Debug\net6.0\dz3rzhevskaya.pdb
+C:\Users\Александра\Desktop\domashca\dz3rzhevskaya\obj\Debug\net6.0\dz3rzhevskaya.csproj.AssemblyReference.cache
+C:\Users\Александра\Desktop\domashca\dz3rzhevskaya\obj\Debug\net6.0\dz3rzhevskaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александра\Desktop\domashca\dz3rzhevskaya\obj\Debug\net6.0\dz3rzhevskaya.AssemblyInfoInputs.cache
+C:\Users\Александра\Desktop\domashca\dz3rzhevskaya\obj\Debug\net6.0\dz3rzhevskaya.AssemblyInfo.cs
+C:\Users\Александра\Desktop\domashca\dz3rzhevskaya\obj\Debug\net6.0\dz3rzhevskaya.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Desktop\domashca\dz3rzhevskaya\obj\Debug\net6.0\dz3rzhevskaya.dll
+C:\Users\Александра\Desktop\domashca\dz3rzhevskaya\obj\Debug\net6.0\refint\dz3rzhevskaya.dll
+C:\Users\Александра\Desktop\domashca\dz3rzhevskaya\obj\Debug\net6.0\dz3rzhevskaya.pdb
+C:\Users\Александра\Desktop\domashca\dz3rzhevskaya\obj\Debug\net6.0\dz3rzhevskaya.genruntimeconfig.cache
+C:\Users\Александра\Desktop\domashca\dz3rzhevskaya\obj\Debug\net6.0\ref\dz3rzhevskaya.dll
